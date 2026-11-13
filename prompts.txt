@@ -1,0 +1,10 @@
+1. How can I connect Python to Binance’s WebSocket API to receive live BTCUSDT and ETHUSDT trades?
+2. How can I send the incoming trade data from my Python producer to a Kafka topic using the cryptocurrency symbol as the message key?
+3. How can I make my WebSocket connection reconnect automatically using exponential backoff when the network disconnects?
+4. How can I calculate the rolling average of the previous 50 trades separately for BTC and ETH without including the current trade?
+5. How can I calculate price deviation percentages and generate alerts when the deviation crosses a configurable threshold?
+6. How can I prevent duplicate trades in SQLite using a composite primary key and INSERT OR IGNORE?
+7. When should I commit Kafka offsets if I am storing messages in SQLite first? What happens if the consumer crashes?
+8. How can I calculate real-time processing latency and throughput for my Kafka streaming application?
+9. How can I build a Streamlit dashboard showing live trades, price charts, anomaly alerts and system health?
+10. How can I test fault tolerance by disconnecting the network, restarting the consumer and replaying duplicate Kafka messages?

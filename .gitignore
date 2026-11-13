@@ -1,0 +1,7 @@
+trades.db
+trades.db-journal
+__pycache__/
+.DS_Store
+venv/
+.env
+*.pyc
